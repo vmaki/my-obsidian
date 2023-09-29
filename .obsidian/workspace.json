@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "c85ab50150a89f47",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfc0c44d5ec51c80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "704edfb16645ebfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Y-自考/@计算机网络原理/@home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b0650511e8e7d01",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca28b8a692bb019f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caedf554533df5c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc12d998cdc83c32",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9a07467b872cb2e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e3b9be6f23d7e779",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc5f30e7bf62e01e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfe1a2221d1331eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Y-自考/@计算机网络原理/@home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2bc8f32c5aced28e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Y-自考/@计算机网络原理/@home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3bbc7539aac650ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "58eeb3fc60cbc1e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Y-自考/@计算机网络原理/@home.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "floating": {
+    "id": "57a5b1a78c51f8af",
+    "type": "floating",
+    "children": [
+      {
+        "id": "61d8341435333bf3",
+        "type": "window",
+        "children": [
+          {
+            "id": "90dfcc47b15d19aa",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4edb5a573f5c5643",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "e49813b9ab5afcc6",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.4.14"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical",
+        "x": 376,
+        "y": 60,
+        "width": 1544,
+        "height": 928,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e49813b9ab5afcc6",
+  "lastOpenFiles": [
+    "Icon\r",
+    "Y-自考/@计算机网络原理/@home.md",
+    "Y-自考/@计算机网络原理/fuck.md",
+    "Y-自考/@网络经济与企业管理/@home.md",
+    "Y-自考/@软件开发工具/@home.md",
+    "Y-自考/英语(二)/资料/考前压轴卷.pdf",
+    "Y-自考/英语(二)/资料/考前急救120题.pdf",
+    "Y-自考/英语(二)/资料/考前30天.pdf",
+    "Y-自考/英语(二)/资料/考前3小时.pdf",
+    "Y-自考/英语(二)/资料/教材.pdf",
+    "Y-自考/英语(二)/考前急救120题.pdf",
+    "Y-自考/英语(二)/考前3小时.pdf",
+    "Y-自考/英语(二)/考前30天.pdf",
+    "Y-自考/英语(二)/考前压轴卷.pdf",
+    "Y-自考/英语(二)/教材.pdf",
+    "未命名.md",
+    "1. Code/Dynamic Mapping.md",
+    "1. Code/未命名.md",
+    "@Resource/README.md",
+    "1. Code/ESK 常用查询语法.md",
+    "1. Code/ES 概念.md",
+    "@Resource/Template/Code 笔记模板.md",
+    "Code/ES/未命名.md"
+  ]
+}
