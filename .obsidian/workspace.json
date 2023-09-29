@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cfc0c44d5ec51c80",
+        "id": "3bd3543ad60ac109",
         "type": "tabs",
         "children": [
           {
-            "id": "704edfb16645ebfb",
+            "id": "75fa4de03e6c63f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Y-自考/@计算机网络原理/@home.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -191,13 +192,17 @@
       }
     ]
   },
-  "active": "e49813b9ab5afcc6",
+  "active": "75fa4de03e6c63f6",
   "lastOpenFiles": [
-    "Icon\r",
+    "Y-自考/@软件开发工具/@home.md",
     "Y-自考/@计算机网络原理/@home.md",
+    "C-生活规划/日记/2023-09-29.md",
+    "C-生活规划/日记",
+    "2023-09-29.md",
+    "X-OB",
+    "Icon\r",
     "Y-自考/@计算机网络原理/fuck.md",
     "Y-自考/@网络经济与企业管理/@home.md",
-    "Y-自考/@软件开发工具/@home.md",
     "Y-自考/英语(二)/资料/考前压轴卷.pdf",
     "Y-自考/英语(二)/资料/考前急救120题.pdf",
     "Y-自考/英语(二)/资料/考前30天.pdf",
@@ -205,9 +210,6 @@
     "Y-自考/英语(二)/资料/教材.pdf",
     "Y-自考/英语(二)/考前急救120题.pdf",
     "Y-自考/英语(二)/考前3小时.pdf",
-    "Y-自考/英语(二)/考前30天.pdf",
-    "Y-自考/英语(二)/考前压轴卷.pdf",
-    "Y-自考/英语(二)/教材.pdf",
     "未命名.md",
     "1. Code/Dynamic Mapping.md",
     "1. Code/未命名.md",
